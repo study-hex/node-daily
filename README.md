@@ -1,10 +1,7 @@
 # node-day11-express-stater
 
-- `Terminal`
 
-```sh=
-node app.js
-```
+
 
 ---
 
@@ -59,5 +56,10 @@ node app.js
 ```sh=
 http://localhost:3000/
 ```
+
+8. Screenshot
+
+![](https://i.imgur.com/4ugryux.png)
+
 
 > [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-r6zkk3)
