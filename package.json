@@ -1,7 +1,7 @@
 {
   "name": "node-r6zkk3",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "eslint": "^8.14.0"
